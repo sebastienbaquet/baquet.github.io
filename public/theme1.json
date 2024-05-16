@@ -1,0 +1,31 @@
+[
+    {
+      "theme": "villes",
+    "questions": [
+      {
+        "question": "Quelle ville est souvent surnommée la 'Ville Lumière' ?",
+        "image": "./images/tour_effel2.jpg",
+        "answers": ["Paris", "New York", "Londres", "Rome"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Quelle ville est connue pour ses canaux et ses maisons colorées ?",
+        "image": "./images/amsterdan).jpg",
+        "answers": ["Amsterdam", "Venise", "Copenhague", "Bruges"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Quelle ville est célèbre pour sa statue emblématique du Christ Rédempteur ?",
+        "image": "./images/rio.jpg",
+        "answers": ["Rio de Janeiro", "Mexico", "Buenos Aires", "São Paulo"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Quelle ville est considérée comme le berceau de la Renaissance ?",
+        "image": "./images/florance.jpg",
+        "answers": ["Florence", "Athènes", "Vienne", "Prague"],
+        "correctIndex": 0
+        }
+      ]
+    }
+  ]

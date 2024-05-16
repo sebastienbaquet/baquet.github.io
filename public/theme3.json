@@ -1,0 +1,31 @@
+[
+  {
+    "theme": "drapeau",
+    "questions": [
+      {
+        "question": "Quel pays possède ce drapeau ?",
+        "image": "./images/drapeau-f.jpg",
+        "answers": ["France", "Allemagne", "Italie", "Espagne"],
+        "correctIndex": 0
+      },
+      {
+        "question": "À quel pays appartient ce drapeau ?",
+        "image": "./images/drapeau_japon.jpg",
+        "answers": ["Japon", "Chine", "Corée du Sud", "Inde"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Identifiez le pays à partir de son drapeau.",
+        "image": "./images/drapeau_bresil.jpg",
+        "answers": ["Brésil", "Argentine", "Uruguay", "Paraguay"],
+        "correctIndex": 0
+      },
+      {
+        "question": "À quel pays ce drapeau appartient-il ?",
+        "image": "./images/drapeau_canada.jpg",
+        "answers": ["Canada", "États-Unis", "Australie", "Royaume-Uni"],
+        "correctIndex": 0
+      }
+    ]
+  }
+]
