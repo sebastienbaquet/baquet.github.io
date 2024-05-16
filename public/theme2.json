@@ -4,25 +4,25 @@
     "questions": [
       {
         "question": "Quelle race de chien est la plus populaire dans le monde ?",
-        "image": "./images/labrador2.jpg",
+        "image": "public/images/labrador2.jpg",
         "answers": ["Labrador Retriever", "Golden Retriever", "Bulldog", "Berger Allemand"],
         "correctIndex": 0
       },
       {
         "question": "Quelle race de chien est connue pour sa rapidité et son agilité ?",
-        "image": "./images/chien_course.jpg",
+        "image": "public/images/chien_course.jpg",
         "answers": ["Greyhound", "Border Collie", "Whippet", "Berger Australien"],
         "correctIndex": 0
       },
       {
         "question": "Quelle race de chien est souvent associée à la royauté et à la noblesse ?",
-        "image": "./images/cavalier_king.jpg",
+        "image": "public/images/cavalier_king.jpg",
         "answers": ["Cavalier King Charles Spaniel", "Papillon", "Bichon Frise", "Shih Tzu"],
         "correctIndex": 0
       },
       {
         "question": "Quelle race de chien est originaire du Japon et est réputée pour son apparence distincte ?",
-        "image": "./images/shi_uh.jpg",
+        "image": "public/images/shi_uh.jpg",
         "answers": ["Shiba Inu", "Akita Inu", "Husky Sibérien", "Chow Chow"],
         "correctIndex": 0
       }
