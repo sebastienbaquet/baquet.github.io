@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function fetchTheme(theme) {
       /* On récupère le chemin du thème avec le paramètre theme récupéré plus haut, si ce paramètre est 1 alors 
       le chemin devient theme1.json */
-      fetch(`/theme${theme}.json`)
+      fetch(`../theme${theme}.json`)
         // Récupère la réponse du serveur et la transforme en json
         .then(response => response.json())
         /* Récupère le contenu de la réponse, ensuite appelle la fonction displayQuestions en lui 
