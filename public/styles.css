@@ -67,7 +67,7 @@ body{
 }
 
 .answer-button:hover {
-  background-color: lightgray;
+  background-color: hwb(0 82% 0%);
   cursor: pointer; 
 }
 
